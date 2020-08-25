@@ -38,6 +38,8 @@
   </tbody>
 </table>
 
+<!--START_SECTION:activity-->
+
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://lautzofif.wordpress.com/2020/08/19/open-sourced-some-if-code/"><b>Open-sourced Some IF code</b></a><br/><i>Information on recently open-sourced IF projects.</i></li>

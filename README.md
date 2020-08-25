@@ -7,6 +7,7 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>Comments</b></td>
     </tr>
   </thead>
   <tbody>
@@ -16,6 +17,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jasonlautzenheiser/trizbort?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jasonlautzenheiser/trizbort?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jasonlautzenheiser/trizbort?style=flat-square&labelColor=343b41"/></td>
+      <td>Interactive Fiction Mapper</td>
     </tr>
     <tr>
       <td><a href="https://github.com/jasonlautzenheiser/hornets-nest"><b>Hornet's Nest</b></a></td>
@@ -23,6 +25,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jasonlautzenheiser/hornets-nest?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jasonlautzenheiser/hornets-nest?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jasonlautzenheiser/hornets-nest?style=flat-square&labelColor=343b41"/></td>
+      <td>Inform 7 - Interactive Fiction</td>
     </tr>	
     <tr>
       <td><a href="https://github.com/jasonlautzenheiser/jack"><b>Jack</b></a></td>
@@ -30,6 +33,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jasonlautzenheiser/jack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jasonlautzenheiser/jack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jasonlautzenheiser/jack?style=flat-square&labelColor=343b41"/></td>
+      <td>Inform 7 - Interactive Fiction</td>      
     </tr>	  
   </tbody>
 </table>

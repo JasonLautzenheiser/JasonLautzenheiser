@@ -39,6 +39,12 @@
 </table>
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+2. 🗣 Commented on [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+3. ❗️ Opened issue [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+4. ❗️ Opened issue [#4](https://github.com//JasonLautzenheiser/Jack/issues/4) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+5. ❗️ Opened issue [#3](https://github.com//JasonLautzenheiser/Jack/issues/3) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+<!--END_SECTION:activity-->
 
 <h3>My latest posts</h3>
 <ul>

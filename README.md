@@ -40,11 +40,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com//JasonLautzenheiser/Jack/issues/3) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-2. ❗️ Opened issue [#6](https://github.com//JasonLautzenheiser/Jack/issues/6) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-3. ❗️ Closed issue [#4](https://github.com//JasonLautzenheiser/Jack/issues/4) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-4. ❗️ Closed issue [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-5. 🗣 Commented on [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+1. ❗️ Closed issue [#6](https://github.com//JasonLautzenheiser/Jack/issues/6) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+2. ❗️ Closed issue [#3](https://github.com//JasonLautzenheiser/Jack/issues/3) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+3. ❗️ Opened issue [#6](https://github.com//JasonLautzenheiser/Jack/issues/6) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+4. ❗️ Closed issue [#4](https://github.com//JasonLautzenheiser/Jack/issues/4) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+5. ❗️ Closed issue [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
 <!--END_SECTION:activity-->
 
 

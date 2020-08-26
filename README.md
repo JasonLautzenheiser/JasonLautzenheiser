@@ -38,6 +38,7 @@
   </tbody>
 </table>
 
+### Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
 2. 🗣 Commented on [#5](https://github.com//JasonLautzenheiser/Jack/issues/5) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)

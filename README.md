@@ -40,11 +40,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com//JasonLautzenheiser/Jack/issues/10) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-2. ❗️ Opened issue [#9](https://github.com//JasonLautzenheiser/Jack/issues/9) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-3. ❗️ Opened issue [#8](https://github.com//JasonLautzenheiser/Jack/issues/8) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-4. ❗️ Opened issue [#7](https://github.com//JasonLautzenheiser/Jack/issues/7) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
-5. ❗️ Closed issue [#2](https://github.com//JasonLautzenheiser/Jack/issues/2) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+1. 🎉 Merged PR [#1](https://github.com//JasonLautzenheiser/Jack-I6/pull/1) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
+2. 💪 Opened PR [#1](https://github.com//JasonLautzenheiser/Jack-I6/pull/1) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
+3. ❗️ Opened issue [#10](https://github.com//JasonLautzenheiser/Jack/issues/10) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+4. ❗️ Opened issue [#9](https://github.com//JasonLautzenheiser/Jack/issues/9) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
+5. ❗️ Opened issue [#8](https://github.com//JasonLautzenheiser/Jack/issues/8) in [JasonLautzenheiser/Jack](https://github.com//JasonLautzenheiser/Jack)
 <!--END_SECTION:activity-->
 
 

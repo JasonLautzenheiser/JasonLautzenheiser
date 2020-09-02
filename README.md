@@ -36,7 +36,7 @@
       <td>Inform 7 - Interactive Fiction</td>      
     </tr>
     <tr>
-      <td><a href="https://github.com/jasonlautzenheiser/jack-i6"><b>Jack< - Inform 6/b></a></td>
+      <td><a href="https://github.com/jasonlautzenheiser/jack-i6"><b>Jack - Inform 6</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jasonlautzenheiser/jack-i6?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jasonlautzenheiser/jack-i6?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jasonlautzenheiser/jack-i6?style=flat-square&labelColor=343b41"/></td>

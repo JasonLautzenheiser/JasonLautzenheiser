@@ -48,11 +48,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//JasonLautzenheiser/Jack-I6/pull/7) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
-2. 💪 Opened PR [#7](https://github.com//JasonLautzenheiser/Jack-I6/pull/7) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
-3. 🎉 Merged PR [#6](https://github.com//JasonLautzenheiser/Jack-I6/pull/6) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
-4. 💪 Opened PR [#6](https://github.com//JasonLautzenheiser/Jack-I6/pull/6) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
-5. ❗️ Opened issue [#5](https://github.com//JasonLautzenheiser/Jack-I6/issues/5) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
+1. 🎉 Merged PR [#8](https://github.com//JasonLautzenheiser/Jack-I6/pull/8) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
+2. 💪 Opened PR [#8](https://github.com//JasonLautzenheiser/Jack-I6/pull/8) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
+3. 🎉 Merged PR [#7](https://github.com//JasonLautzenheiser/Jack-I6/pull/7) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
+4. 💪 Opened PR [#7](https://github.com//JasonLautzenheiser/Jack-I6/pull/7) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
+5. 🎉 Merged PR [#6](https://github.com//JasonLautzenheiser/Jack-I6/pull/6) in [JasonLautzenheiser/Jack-I6](https://github.com//JasonLautzenheiser/Jack-I6)
 <!--END_SECTION:activity-->
 
 

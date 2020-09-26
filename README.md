@@ -48,11 +48,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#503](https://github.com/JasonLautzenheiser/trizbort/issues/503) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
-2. 🎉 Merged PR [#509](https://github.com/JasonLautzenheiser/trizbort/pull/509) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
-3. 🗣 Commented on [#509](https://github.com/JasonLautzenheiser/trizbort/issues/509) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
-4. 💪 Opened PR [#509](https://github.com/JasonLautzenheiser/trizbort/pull/509) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
-5. ❗️ Opened issue [#508](https://github.com/JasonLautzenheiser/trizbort/issues/508) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
+1. 🎉 Merged PR [#510](https://github.com/JasonLautzenheiser/trizbort/pull/510) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
+2. ❌ Reopened PR [#510](https://github.com/JasonLautzenheiser/trizbort/pull/510) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
+3. ❗️ Closed issue [#504](https://github.com/JasonLautzenheiser/trizbort/issues/504) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
+4. ❌ Closed PR [#510](https://github.com/JasonLautzenheiser/trizbort/pull/510) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
+5. 🗣 Commented on [#510](https://github.com/JasonLautzenheiser/trizbort/issues/510) in [JasonLautzenheiser/trizbort](https://github.com/JasonLautzenheiser/trizbort)
 <!--END_SECTION:activity-->
 
 

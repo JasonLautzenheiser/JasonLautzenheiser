@@ -1,5 +1,5 @@
 ![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonlautzenheiser&show_icons=true)
-![Scotts's github stats](https://github-readme-stats.vercel.app/api/pin?username=shanselman&repo=trizbort)
+![Scotts's github stats](https://github-readme-stats.vercel.app/api/pin?username=jasonlautzenheiser&repo=trizbort)
 
 ### Recent Activity
 <!--START_SECTION:activity-->

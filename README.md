@@ -3,7 +3,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/JasonLautzenheiser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLautzenheiser&hide=java,html,tex&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLautzenheiser&hide=java,html,tex&langs_count=3" />
 </a>
 <a href="https://github.com/JasonLautzenheiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonLautzenheiser&show_icons=true&line_height=27&count_private=true" alt="Jason's GitHub Stats" />

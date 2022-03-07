@@ -1,4 +1,4 @@
-My name is Jason Lautzenheiser and I'm a Principal Software engineer working for New Innovations. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Jason Lautzenheiser and I'm a Principal Software engineer working for New Innovations. 
 
 ## &#x1f4c8; GitHub Stats
 

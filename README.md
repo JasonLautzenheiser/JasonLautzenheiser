@@ -20,23 +20,23 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 32 Contributions in the Year 2022
+> 🏆 34 Contributions in the Year 2022
  > 
 > 📦 26.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 36 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -77,10 +77,10 @@ Visual Studio            1 hr 18 mins        ██░░░░░░░░░�
 **I Mostly Code in Inform 7** 
 
 ```text
-Inform 7                 11 repos            ████████████░░░░░░░░░░░░░   50.0% 
-C#                       9 repos             ██████████░░░░░░░░░░░░░░░   40.91% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+Inform 7                 11 repos            █████████████░░░░░░░░░░░░   52.38% 
+C#                       8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
 ```
 
@@ -90,7 +90,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/03/2022 12:20:46 UTC
+ Last Updated on 08/03/2022 17:43:15 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

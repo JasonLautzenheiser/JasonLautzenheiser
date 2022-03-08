@@ -17,10 +17,10 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 <a href="https://github.com/JasonLautzenheiser/Benchmarks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JasonLautzenheiser&repo=Benchmarks" />
 </a> 
+<br/><br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 

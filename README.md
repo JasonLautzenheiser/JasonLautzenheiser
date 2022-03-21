@@ -20,21 +20,19 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2020%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2022
+> 🏆 83 Contributions in the Year 2022
  > 
-> 📦 27.0 kB Used in GitHub's Storage 
+> 📦 26.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -67,10 +65,10 @@ Sunday       30 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 🔥 Editors: 
-Rider                    8 hrs 37 mins       ██████████████████░░░░░░░   72.19% 
-VS Code                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-DataGrip                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-Visual Studio            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54%
+Rider                    7 hrs 36 mins       █████████████████░░░░░░░░   69.61% 
+VS Code                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
+DataGrip                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
+Visual Studio            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
 
 ```
 
@@ -90,7 +88,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/03/2022 17:40:31 UTC
+ Last Updated on 21/03/2022 05:39:29 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

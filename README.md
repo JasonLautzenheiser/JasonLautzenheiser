@@ -28,7 +28,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 
 > 🏆 86 Contributions in the Year 2022
  > 
-> 📦 26.1 kB Used in GitHub's Storage 
+> 📦 26.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,10 +65,10 @@ Sunday       30 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 🔥 Editors: 
-Rider                    10 hrs 14 mins      ██████████████░░░░░░░░░░░   56.52% 
-VS Code                  4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82% 
-Visual Studio            2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-DataGrip                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
+Rider                    12 hrs 29 mins      ███████████████░░░░░░░░░░   61.26% 
+VS Code                  4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15% 
+Visual Studio            2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
+DataGrip                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
 
 ```
 
@@ -88,7 +88,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/03/2022 05:40:25 UTC
+ Last Updated on 24/03/2022 05:39:42 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

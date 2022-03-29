@@ -26,9 +26,9 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 
 **🐱 My GitHub Data** 
 
-> 🏆 90 Contributions in the Year 2022
+> 🏆 96 Contributions in the Year 2022
  > 
-> 📦 26.4 kB Used in GitHub's Storage 
+> 📦 27.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,8 +40,8 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 
 ```text
 🌞 Morning    53 commits     █████████░░░░░░░░░░░░░░░░   37.86% 
-🌆 Daytime    36 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-🌃 Evening    48 commits     ████████░░░░░░░░░░░░░░░░░   34.29% 
+🌆 Daytime    38 commits     ██████░░░░░░░░░░░░░░░░░░░   27.14% 
+🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   32.86% 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 ```
@@ -65,10 +65,10 @@ Sunday       31 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 🔥 Editors: 
-Rider                    16 hrs 17 mins      ████████████████░░░░░░░░░   64.4% 
-Visual Studio            5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   22.02% 
-VS Code                  2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
-DataGrip                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
+Rider                    14 hrs 47 mins      ██████████████████░░░░░░░   75.02% 
+Visual Studio            3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
+VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+DataGrip                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 
 ```
 
@@ -88,7 +88,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 05:39:44 UTC
+ Last Updated on 29/03/2022 05:40:01 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

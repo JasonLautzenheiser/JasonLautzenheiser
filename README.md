@@ -20,7 +20,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -28,7 +28,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 
 **🐱 My GitHub Data** 
 
-> 🏆 126 Contributions in the Year 2022
+> 🏆 127 Contributions in the Year 2022
  > 
 > 📦 27.5 kB Used in GitHub's Storage 
  > 
@@ -36,7 +36,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -67,11 +67,11 @@ Sunday       33 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 🔥 Editors: 
-Rider                    11 hrs 12 mins      █████████████████████░░░░   86.92% 
-VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-WebStorm                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
-Visual Studio            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
-DataGrip                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
+Rider                    7 hrs 46 mins       ███████████████████░░░░░░   78.49% 
+VS Code                  1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+WebStorm                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
+Visual Studio            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
+DataGrip                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 
 ```
 
@@ -91,7 +91,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/04/2022 17:45:33 UTC
+ Last Updated on 14/04/2022 17:45:59 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

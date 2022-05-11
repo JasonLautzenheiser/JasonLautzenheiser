@@ -20,7 +20,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -67,11 +67,11 @@ Sunday       46 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 🔥 Editors: 
-Rider                    20 hrs 9 mins       █████████████████████░░░░   86.1% 
-VS Code                  1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.97% 
-DataGrip                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
-Visual Studio            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
-WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+Rider                    20 hrs 23 mins      ██████████████████████░░░   90.21% 
+VS Code                  44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
+DataGrip                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
+Visual Studio            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
+WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 ```
 
@@ -91,7 +91,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 05:50:23 UTC
+ Last Updated on 11/05/2022 17:53:47 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

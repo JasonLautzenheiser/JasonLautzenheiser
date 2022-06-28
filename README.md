@@ -20,7 +20,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,7 +28,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 
 **🐱 My GitHub Data** 
 
-> 🏆 155 Contributions in the Year 2022
+> 🏆 158 Contributions in the Year 2022
  > 
 > 📦 27.0 kB Used in GitHub's Storage 
  > 
@@ -41,22 +41,22 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    75 commits     ████████░░░░░░░░░░░░░░░░░   34.4% 
-🌆 Daytime    57 commits     ██████░░░░░░░░░░░░░░░░░░░   26.15% 
-🌃 Evening    82 commits     █████████░░░░░░░░░░░░░░░░   37.61% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
+🌞 Morning    76 commits     ████████░░░░░░░░░░░░░░░░░   32.07% 
+🌆 Daytime    65 commits     ██████░░░░░░░░░░░░░░░░░░░   27.43% 
+🌃 Evening    92 commits     █████████░░░░░░░░░░░░░░░░   38.82% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-Tuesday      45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.64% 
-Wednesday    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
-Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
-Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-Saturday     55 commits     ██████░░░░░░░░░░░░░░░░░░░   25.23% 
-Sunday       46 commits     █████░░░░░░░░░░░░░░░░░░░░   21.1%
+Monday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
+Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.41% 
+Wednesday    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
+Friday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
+Saturday     61 commits     ██████░░░░░░░░░░░░░░░░░░░   25.74% 
+Sunday       50 commits     █████░░░░░░░░░░░░░░░░░░░░   21.1%
 
 ```
 
@@ -90,7 +90,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2022 17:48:58 UTC
+ Last Updated on 28/06/2022 05:49:18 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

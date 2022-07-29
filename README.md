@@ -28,7 +28,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 
 **🐱 My GitHub Data** 
 
-> 🏆 159 Contributions in the Year 2022
+> 🏆 158 Contributions in the Year 2022
  > 
 > 📦 26.7 kB Used in GitHub's Storage 
  > 
@@ -36,7 +36,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -67,18 +67,18 @@ Sunday       50 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 🔥 Editors: 
-Rider                    6 hrs 15 mins       ███████████████████████░░   91.88% 
-DataGrip                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
+Rider                    4 hrs 10 mins       █████████████████████████   99.76% 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 ```
 
 **I Mostly Code in Inform 7** 
 
 ```text
-Inform 7                 11 repos            ████████████░░░░░░░░░░░░░   47.83% 
-C#                       10 repos            ██████████░░░░░░░░░░░░░░░   43.48% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+Inform 7                 11 repos            ████████████░░░░░░░░░░░░░   50.0% 
+C#                       9 repos             ██████████░░░░░░░░░░░░░░░   40.91% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
@@ -88,7 +88,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/07/2022 17:52:07 UTC
+ Last Updated on 29/07/2022 17:46:34 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

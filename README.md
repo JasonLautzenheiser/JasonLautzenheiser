@@ -67,8 +67,7 @@ Sunday       50 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 🔥 Editors: 
-Rider                    4 hrs 10 mins       █████████████████████████   99.76% 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+No Activity Tracked This Week
 
 ```
 
@@ -88,7 +87,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2022 17:46:34 UTC
+ Last Updated on 30/07/2022 17:43:02 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>

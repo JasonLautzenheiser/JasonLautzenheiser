@@ -20,7 +20,7 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,6 +38,41 @@ My name is Jason Lautzenheiser and I'm a Principal Software engineer working for
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    76 commits     ████████░░░░░░░░░░░░░░░░░   31.54% 
+🌆 Daytime    65 commits     ██████░░░░░░░░░░░░░░░░░░░   26.97% 
+🌃 Evening    96 commits     ██████████░░░░░░░░░░░░░░░   39.83% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
+Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
+Friday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
+Saturday     63 commits     ██████░░░░░░░░░░░░░░░░░░░   26.14% 
+Sunday       50 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+🔥 Editors: 
+Rider                    9 hrs 27 mins       ████████████████████████░   98.19% 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+
+```
+
 **I Mostly Code in Inform 7** 
 
 ```text
@@ -54,7 +89,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JasonLautzenheiser/JasonLautzenheiser/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 17:46:11 UTC
+ Last Updated on 05/09/2022 06:33:48 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
